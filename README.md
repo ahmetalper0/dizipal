@@ -2,7 +2,7 @@
     
 ```json
 {
-    "last_update": "28-08-2023 00:00:49",
+    "last_update": "28-08-2023 00:06:32",
     "url": "https://dizipal612.com"
 }
 ```
