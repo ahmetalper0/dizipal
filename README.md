@@ -2,7 +2,7 @@
         
 ```json
 {
-    "last_update": "28-08-2023 15:16:28",
+    "last_update": "28-08-2023 15:20:32",
     "url": "no active url"
 }
 ```
