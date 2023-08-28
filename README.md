@@ -1,8 +1,8 @@
 # Dizipal'a gitmek için [buraya](None) tıklayın
         
-    ```json
-    {
-        "last_update": "28-08-2023 13:19:21",
-        "url": "no active url"
-    }
-    ```
+```json
+{
+    "last_update": "28-08-2023 13:20:10",
+    "url": "no active url"
+}
+```
